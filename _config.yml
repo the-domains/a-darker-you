@@ -1,0 +1,28 @@
+name: A Darker You
+favicon: null
+layout_spectrum: 0.4419185456354171
+typography_spectrum: 0.2957526915706694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2871250936295837
+  lightness: 0.7108971364796162
+  saturation: 0.20451758289709687
+  rhythmicContrast: 0.27431606967002153
+purpose: []
